@@ -4,8 +4,6 @@ This repository contains a training pipeline for cross-view geo-localization on 
 
 It is adapted from the original MBEG (Multi-Branch Embedding Guidance) solution presented at ACM MM 2023, but removes Local Perception Network (LPN) and uses a Dual-ResNet model for training and evaluation.
 
-Paper Link: https://doi.acm.org/?doi=3607834.3616562
-
 # Original Source & Attribution
 
 This project is based on the official MBEG solution available here:
