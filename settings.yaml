@@ -1,0 +1,15 @@
+LPN: 0
+batch_size: 4
+block: 4
+classes: 701
+dataset_path: /content/dataset_folder/University-Release
+drop_rate: 0.3
+fp16: 1
+image_size: 448
+lr: 0.003
+model: ResNet
+name: ResNet_1652
+num_epochs: 10
+query: drone
+weight_decay: 0.001
+weight_save_path: /content/ACMMM23-Solution-MBEG/weights
