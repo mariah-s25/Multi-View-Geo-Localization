@@ -31,6 +31,6 @@ We specifically adapted:
 - `U1652_test_and_evaluate.py`
 ---
 
-The notebook `ResNet_U1652.ipynb` contains the code implementation and can be used to run the training and testing.
+The notebook [`ResNet_U1652.ipynb`](./ResNet_U1652.ipynb) contains the code implementation and can be used to run the training and testing.
 
-A detailed explanation of our work on this project can be found in the `Project Report.pdf` file included in this repository.
+A detailed explanation of our work on this project can be found in the [`Project_Report.pdf`](./Project_Report.pdf) file included in this repository.
