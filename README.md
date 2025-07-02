@@ -41,4 +41,4 @@ A video has been recorded to demonstrate our workflow: [`Recording.mp4`](./Recor
 
 # Final Deliverable
 
-The code, visualizations, presentation and report can be found at [`Fine Tuning`] folder.
+All final deliverables, including the code, visualizations, presentation, and report, are available in the [Fine_Tuning](./Fine_Tuning/) folder.
